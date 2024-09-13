@@ -1,0 +1,1 @@
+web gunicorn bookreccomendation.wsgi:application --log-file -
