@@ -1,0 +1,39 @@
+{% extends 'layout.html' %}
+{% load static %}
+{% block title %}
+    Recommendation
+{% endblock %}
+
+{% block content %}
+<div class="content">
+    <h1>Book Recommendation</h1>
+    <!-- Form for selecting a book -->
+    <form method="post" action="">
+        {% csrf_token %}
+        <select name="selected_book" id="selected_book">
+            <option value="" selected disabled>Select a book</option>
+            {% for book in book_names %}
+                <option value="{{ book }}">{{ book }}</option>
+            {% endfor %}
+        </select>
+        <button class="recommendbtn" type="submit">Show Recommendation</button>
+    </form>
+
+    <!-- Displaying recommended books -->
+    {% if recommended_books %}
+    <div class="recommendations">
+        {% for book in recommended_books %}
+        <div class="book-card">
+            <img src="{{ book.image_url }}" alt="{{ book.title }}">
+            <h3>{{ book.title }}</h3>
+            <p>Author: {{ book.author }}</p>
+            <p>Year: {{ book.year }}</p>
+            <p>Ratings: {{ book.rating }}/10</p>
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+        <p>No recommendations found. Please select a book and try again.</p>
+    {% endif %}
+</div>
+{% endblock %}

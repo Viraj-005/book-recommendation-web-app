@@ -1,0 +1,25 @@
+{% extends 'layout.html' %}
+{% load static %}
+
+{% block title %}
+    Model Visualizations
+{% endblock %}
+
+{% block content %}
+<div class="content">
+    <h1>Model Visualizations</h1>
+    <!-- Visualization Image -->
+    <div class="visualization">
+        <h2>Number of Books by Author (Top 15)</h2>
+        <img src="{% static 'images/books_by_author.png' %}" alt="Books by Author">
+        <a href="{% url 'download_visualization' 'books_by_author.png' %}" class="btn btn-primary" download>Download Visualization</a>
+    </div>
+
+    <!-- Visualization Image 2 -->
+    <div class="visualization">
+        <h2>Number of Ratings for Top 15 Books</h2>
+        <img src="{% static 'images/ratings_top_books.png' %}" alt="Ratings for Top 15 Books">
+        <a href="{% url 'download_visualization' 'ratings_top_books.png' %}" class="btn btn-primary" download>Download Visualization</a>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,44 @@
+{% extends 'layout.html' %}
+{% load static %}
+{% block title %}
+    About Us
+{% endblock %}
+
+{% block content %}
+<div class="content">
+    <h1>About Us</h1>
+    <p>Welcome to our Book Recommendation Web App! 📚</p>
+    <p>We are a passionate team of tech enthusiasts dedicated to helping readers discover books they'll love through a personalized recommendation system. Our web app uses a sophisticated algorithm and user data to suggest books tailored to individual preferences, ensuring an enjoyable reading experience for everyone.</p>
+    
+    
+    <h2>Meet Our Team:</h2>
+    <div class="members">
+        <div class="team-mem">
+            <img src="{% static 'images/viraj.jpg' %}" class="timg">
+            <h4>Viraj</h4>
+        </div>
+        <div class="team-mem">
+            <img src="{% static 'images/madujith.png' %}" class="timg">
+            <h4>Madujith</h4>
+        </div>
+        <div class="team-mem">
+            <img src="{% static 'images/pawani.png' %}" class="timg">
+            <h4>Pawani</h4>
+        </div>
+        <div class="team-mem">
+            <img src="{% static 'images/suresh.png' %}" class="timg">
+            <h4>Suresh</h4>
+        </div>
+        <div class="team-mem">
+            <img src="{% static 'images/prasangi.png' %}" class="timg">
+            <h4>Prasangi</h4>
+        </div>
+    </div>
+    
+    
+    <h2>Our Data Source:</h2>
+    <p>To provide accurate and meaningful recommendations, we use the <a href="https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset" class="dataset"><strong>Book-Crossing Dataset</strong></a> from Kaggle, which contains over 1 million ratings for more than 270,000 books from a diverse group of readers. This rich dataset allows us to analyze user preferences and deliver personalized book suggestions that cater to various tastes and genres. 📊</p>
+    
+    <p>Join us and explore a world of books curated just for you! 🌟</p>
+</div>
+{% endblock %}
