@@ -2,8 +2,6 @@
 
 Welcome to the **Book Recommendation Web App**! This project uses a pre-trained machine learning model to suggest books tailored to user preferences, providing a seamless and personalized reading experience.
 
-![Book App Screenshot](https://via.placeholder.com/800x400.png?text=Book+Recommendation+App)
-
 ## 🌟 Features
 
 - **Personalized Book Suggestions**: Get recommendations based on a pre-trained machine learning model.
@@ -59,7 +57,7 @@ Welcome to the **Book Recommendation Web App**! This project uses a pre-trained 
 
 The recommendation engine is powered by a pre-trained machine-learning model that uses content-based filtering to suggest books. The model has been trained on a comprehensive dataset called Book-Crossing Dataset from Kaggle which contains books and user interactions to ensure high-quality recommendations.
 
-**Dataset Link**: (https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset)
+**Dataset Link**: https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset
 
 ## 🤝 Contribution
 
