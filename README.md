@@ -63,11 +63,45 @@ The recommendation engine is powered by a pre-trained machine-learning model tha
 
 This project was developed with the support and collaboration of:
 
-- [Viraj Induruwa](https://github.com/Viraj-005)
-- [Dinusha Madujith](https://github.com/DinushaMadhujith)
-- [Pawani Nimasha](https://github.com/Pawani2000)
-- [Suresh Priyankara](https://github.com/SureshPriyankara9902)
-- [Prasangi Weerasingha](https://github.com/PrasangiW)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Viraj-005">
+        <img src="https://github.com/Viraj-005.png" width="100px;" alt="Viraj Induruwa"/>
+        <br />
+        <sub><b>Viraj Induruwa</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DinushaMadhujith">
+        <img src="https://github.com/DinushaMadhujith.png" width="100px;" alt="Dinusha Madhujith"/>
+        <br />
+        <sub><b>Dinusha Madhujith</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Pawani2000">
+        <img src="https://github.com/Pawani2000.png" width="100px;" alt="Pawani Nimasha"/>
+        <br />
+        <sub><b>Pawani Nimasha</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SureshPriyankara9902">
+        <img src="https://github.com/SureshPriyankara9902.png" width="100px;" alt="Suresh Priyankara"/>
+        <br />
+        <sub><b>Suresh Priyankara</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PrasangiW">
+        <img src="https://github.com/PrasangiW.png" width="100px;" alt="Prasangi Weerasingha"/>
+        <br />
+        <sub><b>Prasangi Weerasingha</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>                                       
 
 A big thank you to everyone for their hard work and contributions!
 
