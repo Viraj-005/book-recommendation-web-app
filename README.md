@@ -59,6 +59,18 @@ The recommendation engine is powered by a pre-trained machine-learning model tha
 
 **Dataset Link**: https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset
 
+## 👥 Contributors
+
+This project was developed with the support and collaboration of:
+
+- [Viraj Induruwa](https://github.com/Viraj-005)
+- [Dinusha Madujith](https://github.com/DinushaMadhujith)
+- [Pawani Nimasha](https://github.com/Pawani2000)
+- [Suresh Priyankara](https://github.com/SureshPriyankara9902)
+- [Prasangi Weerasingha](https://github.com/PrasangiW)
+
+A big thank you to everyone for their hard work and contributions!
+
 ## 🤝 Contribution
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Viraj-005/book-recommendation-web-app/issues).
