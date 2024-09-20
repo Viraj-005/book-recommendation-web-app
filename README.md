@@ -59,6 +59,52 @@ The recommendation engine is powered by a pre-trained machine-learning model tha
 
 **Dataset Link**: https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset
 
+## 👥 Contributors
+
+This project was developed with the support and collaboration of:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Viraj-005">
+        <img src="https://github.com/Viraj-005.png" width="100px;" alt="Viraj Induruwa"/>
+        <br />
+        <sub><b>Viraj Induruwa</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DinushaMadhujith">
+        <img src="https://github.com/DinushaMadhujith.png" width="100px;" alt="Dinusha Madhujith"/>
+        <br />
+        <sub><b>Dinusha Madhujith</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Pawani2000">
+        <img src="https://github.com/Pawani2000.png" width="100px;" alt="Pawani Nimasha"/>
+        <br />
+        <sub><b>Pawani Nimasha</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SureshPriyankara9902">
+        <img src="https://github.com/SureshPriyankara9902.png" width="100px;" alt="Suresh Priyankara"/>
+        <br />
+        <sub><b>Suresh Priyankara</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PrasangiW">
+        <img src="https://github.com/PrasangiW.png" width="100px;" alt="Prasangi Weerasingha"/>
+        <br />
+        <sub><b>Prasangi Weerasingha</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>                                       
+
+A big thank you to everyone for their hard work and contributions!
+
 ## 🤝 Contribution
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Viraj-005/book-recommendation-web-app/issues).
