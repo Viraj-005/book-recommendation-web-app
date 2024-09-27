@@ -7,7 +7,7 @@ Welcome to the **Book Recommendation Web App**! This project uses a pre-trained 
 - **Personalized Book Suggestions**: Get recommendations based on a pre-trained machine learning model.
 - **Easy-to-Use Interface**: Clean and user-friendly design to simplify book discovery.
 - **Genre-Based Filtering**: Find books by genre, author, or title.
-- **Lightweight and Fast**: No database needed — all recommendations are generated in real-time.
+- **Lightweight and Fast**: No database needed — all recommendations are generated in real time.
 
 ## 🚀 How It Works
 
@@ -20,7 +20,6 @@ Welcome to the **Book Recommendation Web App**! This project uses a pre-trained 
 - **Backend**: Python, Django
 - **Machine Learning**: Scikit-Learn, Pandas, NumPy
 - **Frontend**: HTML, CSS, JavaScript
-- **Deployment**: Heroku/AWS
 
 ## 🎯 Getting Started
 
