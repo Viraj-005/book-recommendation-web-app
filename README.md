@@ -5,9 +5,8 @@ Welcome to the **Book Recommendation Web App**! This project uses a pre-trained 
 ## 🌟 Features
 
 - **Personalized Book Suggestions**: Get recommendations based on a pre-trained machine learning model.
-- **Easy-to-Use Interface**: Clean and user-friendly design to simplify book discovery.
-- **Genre-Based Filtering**: Find books by genre, author, or title.
-- **Lightweight and Fast**: No database needed — all recommendations are generated in real time.
+- **Easy-to-Use Interface**: Clean and user-friendly design to simplify book discover                    
+- **Lightweight and Fast**: No database needed — all recommendations are generated in real-time.
 
 ## 🚀 How It Works
 
