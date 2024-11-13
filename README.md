@@ -1,3 +1,5 @@
+![Recommendation Page](screenshots/BookRecommendation.png)
+
 # 📚 Book Recommendation Web App
 
 Welcome to the **Book Recommendation Web App**! This project uses a pre-trained machine learning model to suggest books tailored to user preferences, providing a seamless and personalized reading experience.
